@@ -1,4 +1,4 @@
-# Hi 👋, I'm Henrique Souza
+# Hi 👋, I'm Henrique Souza Santana
 
 🚀 **Junior Front-End Developer**
 
