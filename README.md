@@ -11,17 +11,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsantanadev&show_icons=true&theme=github_dark&hide_border=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsantanadev" /> 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsantanadev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsantanadev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsantanadev&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsantanadev&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Connect with me
