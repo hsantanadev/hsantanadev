@@ -1,36 +1,117 @@
-# Hi 👋, I'm Henrique Souza Santana
+<h1 align="center">Hi 👋, I'm Henrique Souza Santana</h1>
 
-🚀 **Junior Front-End Developer**
-
-💻 Building modern and responsive web interfaces  
-🎨 Creating clean, accessible and user-friendly experiences  
-📚 Studying Systems for Internet
-
-## 🛠️ Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-## 📊 GitHub Stats
+<h3 align="center">
+Front-End Developer • HTML • CSS • JavaScript
+</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsantanadev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsantanadev&layout=compact&theme=tokyonight&hide_border=true" />
+Passionate about building modern, responsive and accessible web experiences.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsantanadev&theme=tokyonight&hide_border=true" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+Responsive+Web+Applications;Always+Learning+New+Technologies"/>
+
 </p>
 
-## 📫 Connect with me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-souza-santana-19b533242/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriques_santana/)
+<img src="https://komarev.com/ghpvc/?username=hsantanadev&label=Profile+Views&color=0e75b6&style=flat"/>
 
-## 💡 Philosophy
+</p>
 
-Code with purpose. Design with simplicity. Learn continuously.
+---
 
-I believe great web experiences are built through clean code, thoughtful design and a constant desire to grow as a developer.
+# 👨‍💻 About Me
+
+- 🎓 Studying **Systems for Internet**
+- 💻 Focused on **Front-End Development**
+- 🌱 Currently learning **React**
+- 🎯 Looking for my first opportunity as a developer
+- 🚀 I enjoy transforming ideas into interactive web experiences.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 📂 Featured Project
+
+<a href="https://github.com/hsantanadev/ze_acai">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hsantanadev&repo=ze_acai&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hsantanadev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsantanadev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hsantanadev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hsantanadev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hsantanadev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌎 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/henrique-souza-santana-19b533242/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/henriques_santana/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+
+</p>
